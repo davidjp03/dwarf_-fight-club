@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6706fc8e86b53defff5ca64c"
+  },
+  "environment_name": "Steel Cage Warehouse",
+  "fights_held": 6
+},
+{
+  "_id": {
+    "$oid": "6706fc8e86b53defff5ca64d"
+  },
+  "environment_name": "Skyline Roof Arena",
+  "fights_held": 4
+},
+{
+  "_id": {
+    "$oid": "6706fc8e86b53defff5ca64e"
+  },
+  "environment_name": "Tech Lab",
+  "fights_held": 3
+},
+{
+  "_id": {
+    "$oid": "6706fc8e86b53defff5ca64f"
+  },
+  "environment_name": "Concrete Jungle",
+  "fights_held": 8
+}]

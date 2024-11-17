@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6706f7d352207ecfffbb77b9"
+  },
+  "name": "LeBron James",
+  "league": "NBA",
+  "wins": 10
+},
+{
+  "_id": {
+    "$oid": "6706f7d352207ecfffbb77ba"
+  },
+  "name": "Kobe Bryant",
+  "league": "NBA",
+  "wins": 12
+},
+{
+  "_id": {
+    "$oid": "6706f7d352207ecfffbb77bb"
+  },
+  "name": "Pau Gasol",
+  "league": "NBA",
+  "wins": 8
+},
+{
+  "_id": {
+    "$oid": "6706f7d352207ecfffbb77bc"
+  },
+  "name": "Stephen Curry",
+  "league": "NBA",
+  "wins": 15
+},
+{
+  "_id": {
+    "$oid": "6706f7d352207ecfffbb77bd"
+  },
+  "name": "John Doe",
+  "league": "ACB",
+  "wins": 6
+},
+{
+  "_id": {
+    "$oid": "6706f7d352207ecfffbb77be"
+  },
+  "name": "Jane Smith",
+  "league": "MMA",
+  "wins": 9
+}]

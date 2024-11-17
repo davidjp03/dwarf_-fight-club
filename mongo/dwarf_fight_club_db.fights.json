@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "67070e07e2ef211292543ecf"
+  },
+  "environment_id": {
+    "$oid": "6706fc8e86b53defff5ca64c"
+  },
+  "ai_used": true,
+  "participants": [
+    {
+      "fighter_id": {
+        "$oid": "6706f7d352207ecfffbb77b9"
+      },
+      "name": "LeBron James",
+      "weapon_id": {
+        "$oid": "6706fc712b51a812081649c3"
+      },
+      "weapon_name": "AI Robot",
+      "result": "win"
+    },
+    {
+      "fighter_id": {
+        "$oid": "6706f7d352207ecfffbb77ba"
+      },
+      "name": "Kobe Bryant",
+      "weapon_id": {
+        "$oid": "6706fc712b51a812081649c0"
+      },
+      "weapon_name": "Sword",
+      "result": "loss"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67070e07e2ef211292543ed0"
+  },
+  "environment_id": {
+    "$oid": "6706fc8e86b53defff5ca64d"
+  },
+  "ai_used": false,
+  "participants": [
+    {
+      "fighter_id": {
+        "$oid": "6706f7d352207ecfffbb77bb"
+      },
+      "name": "Pau Gasol",
+      "weapon_id": {
+        "$oid": "6706fc712b51a812081649c1"
+      },
+      "weapon_name": "Shield",
+      "result": "win"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67070e07e2ef211292543ed1"
+  },
+  "environment_id": {
+    "$oid": "6706fc8e86b53defff5ca64e"
+  },
+  "ai_used": true,
+  "participants": [
+    {
+      "fighter_id": {
+        "$oid": "6706f7d352207ecfffbb77bc"
+      },
+      "name": "Stephen Curry",
+      "weapon_id": {
+        "$oid": "6706fc712b51a812081649c3"
+      },
+      "weapon_name": "AI Robot",
+      "result": "win"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67070e07e2ef211292543ed2"
+  },
+  "environment_id": {
+    "$oid": "6706fc8e86b53defff5ca64f"
+  },
+  "ai_used": false,
+  "participants": [
+    {
+      "fighter_id": {
+        "$oid": "6706f7d352207ecfffbb77bd"
+      },
+      "name": "John Doe",
+      "weapon_id": {
+        "$oid": "6706fc712b51a812081649c2"
+      },
+      "weapon_name": "Laser Gun",
+      "result": "win"
+    },
+    {
+      "fighter_id": {
+        "$oid": "6706f7d352207ecfffbb77be"
+      },
+      "name": "Jane Smith",
+      "weapon_id": {
+        "$oid": "6706fc712b51a812081649c0"
+      },
+      "weapon_name": "Sword",
+      "result": "loss"
+    }
+  ]
+}]

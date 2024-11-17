@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6706fc712b51a812081649c0"
+  },
+  "weapon_name": "Sword",
+  "times_used": 5
+},
+{
+  "_id": {
+    "$oid": "6706fc712b51a812081649c1"
+  },
+  "weapon_name": "Shield",
+  "times_used": 3
+},
+{
+  "_id": {
+    "$oid": "6706fc712b51a812081649c2"
+  },
+  "weapon_name": "Laser Gun",
+  "times_used": 7
+},
+{
+  "_id": {
+    "$oid": "6706fc712b51a812081649c3"
+  },
+  "weapon_name": "AI Robot",
+  "times_used": 4
+}]
